@@ -1,7 +1,7 @@
 {
-    "name": "startbit",
+    "name": "startbit1",
     "version": "0.0.1",
-    "description": "Blocks for Hiwonder startbit",
+    "description": "Blocks for Hiwonder startbit modifie verion1",
     "license": "MIT",
     "dependencies": {
         "core": "*"

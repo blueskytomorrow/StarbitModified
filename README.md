@@ -11,6 +11,6 @@ MIT
 (The metadata above is needed for package search.)
 
 ```package
-StarbitModified=github:blueskytomorrow/StarbitModified
+starbitmodified=github:blueskytomorrow/StarbitModified
 ```
 

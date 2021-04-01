@@ -1,6 +1,6 @@
-# startbit
+# StarbitModified
 
-Blocks for Hiwonder startbit
+Blocks for Hiwonder startbit board modified
 ## License
 
 MIT

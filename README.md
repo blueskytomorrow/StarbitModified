@@ -7,7 +7,7 @@ MIT
 
 ## Supported targets
 
-* for PXT/StartbitModified
+* for PXT/startbitmodified
 (The metadata above is needed for package search.)
 
 ```package
